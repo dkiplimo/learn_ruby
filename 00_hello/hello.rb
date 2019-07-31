@@ -1,3 +1,3 @@
 #write your code here
-def hello
+def hello (Hello!)
 end
